@@ -1,0 +1,49 @@
+weekly_cost = 14300
+
+inventory = {
+    "Apple": {"quantity": 10, "price": 60},
+    "Orange": {"quantity": 10, "price": 60},
+    "Banana": {"quantity": 10, "price": 30},
+    "Grapes": {"quantity": 10, "price": 120},
+    "Chikoo": {"quantity": 10, "price": 100},
+    "Dragon Fruit": {"quantity": 10, "price": 150},
+    "Avocado": {"quantity": 10, "price": 130},
+    "Guava": {"quantity": 10, "price": 80},
+    "Mango": {"quantity": 10, "price": 160},
+    "Lemon": {"quantity": 10, "price": 140},
+    "Mangosteen": {"quantity": 10, "price": 180},
+    "Star Apple": {"quantity": 10, "price": 120},
+    "Rambutan": {"quantity": 10, "price": 100}
+}
+
+
+daily_sales = {}
+
+
+weekly_sales = []
+
+weekly_product_summary = {}
+
+def main():
+    print("Welcome to the Fruit Store Management System!")
+    print("This system will help you manage your fruit store, track sales, and calculate weekly profits.")
+
+    days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+    
+
+    for day in days:
+        print(f"\n--- {day} ---")
+        # Add basic options to simulate adding and viewing inventory or sales
+        print("1. Add Fruit\n2. View Inventory\n3. Record Sale\n4. View Daily Sales\n5. End Day")
+        # Placeholder for user input simulation
+        # In actual implementation, you would take user input here
+        
+    print("\n--- Weekly Summary ---")
+    print(f"Total Sales for the Week: ₱XXXX")
+    print(f"Total Cost: ₱{weekly_cost}")
+    print(f"Profit: ₱XXXX")
+    print("\n--- Weekly Product Summary ---")
+    print("Most Purchased Fruits: Placeholder")
+
+if __name__ == "__main__":
+    main()
