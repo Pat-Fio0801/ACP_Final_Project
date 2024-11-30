@@ -52,6 +52,10 @@ python project.py
 6. End Day
 ```
 
+# Demo:
+
+https://drive.google.com/file/d/1scjp2X3w21osdnG7zCYa7t6D6A9GMcKM/view?usp=sharing
+
 # Authors/Contributers:
 
  - **Combenido, Earlsin Mae**
