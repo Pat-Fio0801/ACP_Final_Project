@@ -1,6 +1,6 @@
 # Fruit Store Management System
 
-The Fruit Store Management System is a Python-based inventory and sales system that is designed to manage the daily operations of a fruit store. This system allows the store administrator to perform various tasks such as adding, recording sales, processing returns, and tracking daily and weekly summaries. The goal of the program is to help store managers efficiently manage their stock, track sales, and calculate profits, providing a clear overview of the store's financial performance.
+The Fruit Store Management System is a Python-based inventory and sales system that is designed to manage the daily operations of a fruit store. This system allows the store administrator to perform various tasks such as adding, recording sales, processing returns, and tracking daily and weekly summaries. The goal of the program is to help store managers efficiently manage their stock, track sales, and calculate profits, providing a clear overview of the store's financial performance and all with a database that can easily store fruits and sales data.
 
 # Features:
  
@@ -9,6 +9,7 @@ The Fruit Store Management System is a Python-based inventory and sales system t
  - **Profit Calculation**: Calculate weekly profits based on dales and operational costs.
  - **User-Friendly Menu**: Easy to read and view menu interface for daily operations.
  - **Processing Returns**: For returning fruits and recording the refunded money in return.
+ - **CSV-based Database**: Acting as the inventory for the fruits and helps record sales more efficiently.
 
 # Prerequisites:
  
@@ -26,7 +27,7 @@ bash
 git clone https://github.com/username/fruit-store-management-system.git
 ```
 
-2. Navigate to project directory:
+2. **Navigate** to project directory:
 
 bash
 ```
@@ -41,6 +42,8 @@ python project.py
 ```
 
 # Example Menu
+
+*This should be the expected output*:
 
 ```
 --- Monday ---
