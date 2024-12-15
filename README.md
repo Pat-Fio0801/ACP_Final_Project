@@ -55,7 +55,7 @@ python project.py
 6. End Day
 ```
 
-#### Video Demo: https://drive.google.com/file/d/1ut5ze_nzK_bEZ_wtTcjXFxQyyde6uoZv/view?usp=drive_link
+#### Video Demo: https://drive.google.com/file/d/1zX_vYqBCe4tE1LapMPqFU0WXWjqdptC0/view?usp=sharing
 #### Description: The video demo for the system complete with explanation!
 
 # Authors/Contributers:
