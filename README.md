@@ -46,13 +46,21 @@ python project.py
 *This should be the expected output*:
 
 ```
+Welcome to the Fruit Store Management System :))
+
+--- Starting New Week ---
+
 --- Monday ---
-1. Add Fruit
+What would you like to do?
+1. Add Item
 2. View Inventory
 3. Record Sale
 4. Process Return
 5. View Daily Sales
 6. End Day
+7. Move to Next Week
+8. Exit
+Enter your choice (1-7):
 ```
 
 #### Video Demo: https://drive.google.com/file/d/1zX_vYqBCe4tE1LapMPqFU0WXWjqdptC0/view?usp=sharing
